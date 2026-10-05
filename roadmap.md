@@ -1,0 +1,26 @@
+# Roadmap
+
+- [x] Build cinematic Vijay landing transition
+- [x] Build responsive personal tracker dashboard with interactive daily tasks
+- [x] Add Learning, Projects, Applications, Achievements, and Monthly Goals pages
+- [x] Verify build and desktop/mobile presentation
+- [x] Show the Vijay experience as a four-second dashboard intro
+- [x] Add date-based calendar and progress history for tasks, missed reasons, learning hours, streaks, and monthly targets
+- [x] Verify the new history experience on desktop and mobile
+- [x] Show dates horizontally with checkbox-style completion status in history
+- [x] Rename the app to Prove It and apply a distinctive display font and effects
+- [x] Remove the separate Landing page and navigation item
+- [x] Animate the intro quote letter by letter
+- [x] Reduce typography sizes throughout every tracker page
+- [x] Add Yes/No checklist decisions, required missed-task reasons, and completion animation
+- [x] Add independent daily checklist and application reminder settings
+- [x] Persist reminder times and enablement in the browser
+- [x] Verify reminder settings on desktop and mobile
+- [x] Apply the selected asymmetric layout and correct intro image fit
+- [x] Verify the redesigned intro and dashboard on desktop and mobile
+- [x] Add secure sign-up and login before tracker access
+- [x] Create private student profile setup with personal details and resume upload
+- [x] Redesign daily streak and profile streak displays
+- [ ] Verify authentication, profile setup, and streak displays
+- [x] Replace college mode with a daily college attendance Yes/No prompt and required reason when absent
+- [x] Reduce the college attendance panel size and soften its color intensity
