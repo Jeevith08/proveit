@@ -101,7 +101,9 @@ export type Database = {
           company: string;
           created_at: string;
           id: string;
+          job_type?: string | null;
           reason?: string | null;
+          referrals_asked?: number | null;
           rejection_reason?: string | null;
           role: string;
           round?: string | null;
@@ -114,7 +116,9 @@ export type Database = {
           company: string;
           created_at?: string;
           id?: string;
+          job_type?: string | null;
           reason?: string | null;
+          referrals_asked?: number | null;
           rejection_reason?: string | null;
           role: string;
           round?: string | null;
@@ -127,7 +131,9 @@ export type Database = {
           company?: string;
           created_at?: string;
           id?: string;
+          job_type?: string | null;
           reason?: string | null;
+          referrals_asked?: number | null;
           rejection_reason?: string | null;
           role?: string;
           round?: string | null;
